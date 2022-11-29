@@ -1,0 +1,5 @@
+*.log
+.idea
+/.idea/workspace.xml
+txt
+txt2
